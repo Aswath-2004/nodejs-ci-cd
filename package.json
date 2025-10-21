@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-status-api",
+  "version": "1.0.0",
+  "description": "Simple REST API for CI/CD pipeline test.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests defined\" && exit 0"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
